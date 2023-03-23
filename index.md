@@ -1,19 +1,10 @@
 # Welcome to Chicago Nostr Meetup!
 
-This meetup was formed with the goal of bringing together like-minded individuals who share a passion for Nostr. We hold regular events and meetings where we discuss the latest developments in Nostr and related technologies, and share our ideas and experiences. The goal is to onboard more people to nostr and spread the message.
-## Upcoming Events
+This meetup was formed with the goal of bringing together like-minded individuals who share a passion for Nostr. We hold regular meetings where we discuss the latest developments in Nostr, and share our ideas and experiences. The goal is to onboard more people to nostr and spread the message.
 
-Here are our upcoming and recent events:
+## Upcoming and Recent Events
 
 - coming soon...
-
-## About Us
-
-Learn more about us and our members:
-
-- [insert member 1 name and short bio here]
-- [insert member 2 name and short bio here]
-- [insert member 3 name and short bio here]
 
 ## Contact Us
 
