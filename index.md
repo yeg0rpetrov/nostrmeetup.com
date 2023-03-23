@@ -1,5 +1,7 @@
 # Welcome to Chicago Nostr Meetup!
 
+<img src="images/purple Chi.png" width="500" height="auto" />
+
 This meetup was formed with the goal of bringing together like-minded individuals who share a passion for Nostr. We hold regular meetings where we discuss the latest developments in Nostr, and share our ideas and experiences. The goal is to onboard more people to nostr and spread the message.
 
 ## Upcoming and Recent Events
